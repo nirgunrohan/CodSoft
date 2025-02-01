@@ -1,4 +1,4 @@
-<h1>CodSoft</h1>
+# CodSoft
 ## Task 1
   ### NUMBER GUESSING GAME 
  This is the simple c++ program which generates a random number and asks the user to guess it.
